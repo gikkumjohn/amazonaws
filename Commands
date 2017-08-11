@@ -1,0 +1,4 @@
+sudo yum install python-pip
+
+sudo pip install boto awscli
+
